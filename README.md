@@ -17,3 +17,10 @@ Pastikan Anda telah menginstal dependensi berikut sebelum menjalankan dashboard:
 - Streamlit
 
 **Cara Menjalankan**
+- LOKAL
+1. Kloning repository ini, link= https://github.com/rafifardhana1503/e_commerce-order-trend-analysis
+2. Pastikan dataset tersedia yaitu (all_data.csv)
+3. Jalankan dashboard pada command prompt folder, (streamlit run dashboard.py)
+
+- ONLINE
+1. Akses dashboard melalui url.txt atau link= https://ecommerce-order-trend-analysis-dashboard.streamlit.app/
