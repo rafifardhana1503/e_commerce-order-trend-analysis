@@ -1,7 +1,7 @@
 # E-Commerce Order Trend Dashboard
 
 **Deskripsi**
-Dashboard ini dibuat menggunakan Streamlit dan Pandas untuk menganalisis tren pesanan di platform E-Commerce. Dashboard ini menampilkan informasi grafik geografis dan kategori produk berdasarkan jumlah pesanan. Informasi ini ditampilkan berdasarkan filter tanggal yang diinput oleh viewer
+- Dashboard ini dibuat menggunakan Streamlit dan Pandas untuk menganalisis tren pesanan di platform E-Commerce. Dashboard ini menampilkan informasi grafik geografis dan kategori produk berdasarkan jumlah pesanan. Informasi ini ditampilkan berdasarkan filter tanggal yang diinput oleh viewer
 
 **Fitur**
 - Filter Rentang Waktu, berada pada sidebar (kiri) layar dan digunakan untuk memilih periode tertentu untuk analisis data.
